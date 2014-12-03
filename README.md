@@ -1,7 +1,7 @@
 Aho-Corasik
 ===========
 
-creating dictionary of words by using Aho-Cоrasik algorithms based on adjacency matrixs
+creating dictionary of words by using Aho-Cоrasik algorithms based on adjacency matrixes
 ---
 
 создание словаря через суффиксное дерево - (алгоритм ахо - корасик)
